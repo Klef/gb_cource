@@ -414,7 +414,7 @@ public:
 
 void HomeWork_3()
 {
-    cout << "Home Work #2" << endl;
+    cout << "Home Work #3" << endl;
     Game G("Dmitry");
     G.tour();
     G.tour();
