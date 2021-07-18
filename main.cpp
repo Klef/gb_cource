@@ -147,8 +147,8 @@ void HomeWork_3()
     stack.print(); 
 }
 int main() {
-  //HomeWork_1();
-  //HomeWork_2();
+  HomeWork_1();
+  HomeWork_2();
   HomeWork_3();
 
   return 0;
